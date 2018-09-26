@@ -99,7 +99,7 @@ int main() {
 	std::cout << "Please enter N value 1-9 :" << std::endl;
 	int n;
 	std::cin >> n;
-	permutation(2);
+	permutation(n);
 	
 
 }
