@@ -18,3 +18,11 @@ while r > s
 interchange ar and as
 r := r - 1
 s := s + 1*/
+/** Simplified 
+
+Ex:
+2647531
+-cacluate the target; Starting for the Right goind left, any left number less than right number = 4. because 4 < 7.
+-the NEXT smallest of the biggest number on the right of it.(5), even though we have 7 that is also greater but 5<7.
+-swap them numbers 265----- order them
+-order the number from the samellest ot the biggest!
